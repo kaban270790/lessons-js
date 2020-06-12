@@ -1,0 +1,1 @@
+Решения некотрых задач, взятых с сайта https://www.codewars.com/users/kaban270790
